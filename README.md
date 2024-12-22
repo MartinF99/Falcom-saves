@@ -13,3 +13,12 @@ The Legend Of Nayuta *early stages*
 
 Tokyo Xandadu * in progress, final chapter Tower dungeon*
 
+## Additional info
+Usage on windows: copy the wanted games save directory into Saved Games
+For Tokyo Xanadu put the Aksys Games folder into Documents/My Games
+
+Usage on linux/wine:
+  - Steam: put the Save Games you want into PROTONPREFIX/drive_c/users/steamuser/Saved Games/Falcom
+  - lutris/heroic/system wine put the Save Games into the <WINEPREFIX>/drive_c/users/$USERNAME/Saved Games/Falcom
+
+Or in the Folders necessary for Tokyo Xanadu
