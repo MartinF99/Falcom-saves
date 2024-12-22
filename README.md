@@ -11,7 +11,7 @@ Ys IX *in progress, chapter 7*
 
 The Legend Of Nayuta *early stages*
 
-Tokyo Xandadu * in progress, final chapter Tower dungeon*
+Tokyo Xandadu *in progress, final chapter Tower dungeon*
 
 ## Additional info
 Usage on windows: copy the wanted games save directory into Saved Games
