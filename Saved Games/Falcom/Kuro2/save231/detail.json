@@ -1,14 +1,14 @@
 {
     "Time": {
         "year": 2025,
-        "month": 4,
-        "day": 12,
-        "hour": 4,
-        "minute": 32,
-        "second": 12
+        "month": 5,
+        "day": 8,
+        "hour": 21,
+        "minute": 1,
+        "second": 42
     },
-    "title": "(autosave)Act I-A",
-    "subtitle": "Floating Isles",
-    "detail": "Act I-A Port Capriccio\nPlaytime: 005:40:06\nCommand Battle Difficulty: Normal\nField Battle Difficulty: Normal\n Van\tLv17 Quatre\tLv17\n Nadia\tLv17 Kincaid\tLv17\n Swin\tLv17 Judith\tLv17\n Agnès\tLv17 Elaine\tLv14",
+    "title": "(autosave)Act III",
+    "subtitle": "Newberry General Store",
+    "detail": "Act III The Act of Gathering\nPlaytime: 053:57:04\nCommand Battle Difficulty: Normal\nField Battle Difficulty: Easy\n Van\tLv47 Agnès\tLv46\n Feri\tLv44 Aaron\tLv44\n Risette\tLv43 Quatre\tLv46\n Judith\tLv44 Elaine\tLv44",
     "user_param": 0
 }
