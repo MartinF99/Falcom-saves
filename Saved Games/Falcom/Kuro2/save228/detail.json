@@ -1,14 +1,14 @@
 {
     "Time": {
         "year": 2025,
-        "month": 6,
+        "month": 7,
         "day": 3,
-        "hour": 18,
-        "minute": 34,
-        "second": 55
+        "hour": 1,
+        "minute": 46,
+        "second": 5
     },
-    "title": "(autosave)Act III　",
-    "subtitle": "Edith - Old Town",
-    "detail": "Act III　 The Act of Gathering: Severed Bonds\nPlaytime: 069:58:07\nCommand Battle Difficulty: Normal\nField Battle Difficulty: Easy\n Van\tLv56 Agnès\tLv56\n Feri\tLv51 Risette\tLv51\n Aaron\tLv56 Quatre\tLv56\n Judith\tLv55 Renne\tLv56",
+    "title": "(autosave)Finale",
+    "subtitle": "Floating Isles - Final Floor",
+    "detail": "Finale What Comes Around, Goes Around\nPlaytime: 079:46:07\nCommand Battle Difficulty: Normal\nField Battle Difficulty: Easy\n Agnès\tLv67 Aaron\tLv67\n Renne\tLv66 Van\tLv67\n Elaine\tLv66 Quatre\tLv67\n Judith\tLv67 Dominion Celis\tLv65",
     "user_param": 0
 }
