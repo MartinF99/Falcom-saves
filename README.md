@@ -48,3 +48,5 @@ Usage on Linux/WINE:
 
 For Trails of Cold steel iv: includes a save file after beating the normal ending for an additional cutscene during the True ending route
 
+## BONUS
+- Kitty talk for dummies, typed out from FC
