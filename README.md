@@ -6,21 +6,21 @@ Clear Data and backup of current playthroughs of Games by Nihon Falcom
 ## Games Saves included
 
 |Game 						| Complete	| DLC required	| Clear save only 	|
-|:--: 						|   :---:   |     :--:		| 		:--:			|
+|:--: 						|   :---:   |     :--:		| 		:--:		|
 |Trails In The Sky FC 		| yes 		| none 			| yes 				|
 |Trails In The Sky SC 		| yes 		| none 			| yes  				|
 |Trails From zero    		| yes 		| none 			| yes 				|
 |Trails To Azure 			| yes 		| none 			| no 				|
 |Trails Of Cold steel		| yes 		| yes			| yes 				|
-|Trails Of Cold Steel II		| yes 		| yes 			| yes 				|
+|Trails Of Cold Steel II		| yes 		| yes 			| yes 			|
 |Trails Of Cold Steel III	| yes 		| yes 			| yes 				|
 |Trails Of Cold Steel IV 	| yes 		| yes 			| no  				|
 |Trails Into Reverie  		| yes 		| yes 			| no  				|
-|Trails Through Daybreak		| yes 		| yes 			| yes 				|
-|Trails Through Daybreak II	| no			| yes			| no					|
+|Trails Through Daybreak	| yes 		| yes 			| yes 			|
+|Trails Through Daybreak II	|main story | yes			| no			|
 |Ys IX 						| no 		| no 			| no 				|
 |The legend of nayuta 		| no 		| no 			| no 				|
-|Tokyo Xanadu Ex+ 			| no 		| yes			| no 				|
+|Tokyo Xanadu Ex+ 			| yes 		| yes			| no 				|
 |Ys VIII: Lacrimosa Of Dana | no        | yes           | no                |
 | Zwei: The Arges Adventure | no        | no            | no                |
 
