@@ -1,0 +1,260 @@
+{
+    "Graphics": {
+        "display_name": "\\\\.\\DISPLAY1",
+        "window_mode": 2,
+        "resolution": {
+            "width": 1920,
+            "height": 1080
+        },
+        "refresh_rate": 144,
+        "frame_rate_limit": 60,
+        "vsync": false,
+        "hdr": false,
+        "hdr_peak_brightness": 500,
+        "hdr_ui_brightness": 0.75
+    },
+    "Graphics2": {
+        "draw_distance": 2,
+        "lod_distance": 2,
+        "light_distance": 2,
+        "rendering_scale": 5,
+        "shadow_map": 2,
+        "volumetric_light": 2,
+        "ssao": 2,
+        "ssr": 2,
+        "anisotropic_filtering": 3,
+        "anti_aliasing": 2,
+        "dof": 1
+    },
+    "KeyConfig": {
+        "Ver": 100,
+        "field_attack": {
+            "key": 15
+        },
+        "avoid": {
+            "key": 103
+        },
+        "encount": {
+            "key": 37
+        },
+        "hard_attack": {
+            "key": 16
+        },
+        "combination_attack": {
+            "key": 22
+        },
+        "leader_change": {
+            "key": 36
+        },
+        "dash": {
+            "key": 96
+        },
+        "camera_reset": {
+            "key": 39
+        },
+        "target_lock": {
+            "key": 17
+        },
+        "action": {
+            "key": 25
+        },
+        "log_menu": {
+            "key": 31
+        },
+        "map_menu": {
+            "key": 32
+        },
+        "item": {
+            "key": 28
+        },
+        "arts": {
+            "key": 27
+        },
+        "camera_up": {
+            "key": 54
+        },
+        "camera_down": {
+            "key": 48
+        },
+        "camera_left": {
+            "key": 50
+        },
+        "camera_right": {
+            "key": 52
+        },
+        "decide": {
+            "key": 15
+        },
+        "cancel": {
+            "key": 16
+        },
+        "menu_up": {
+            "key": 42
+        },
+        "menu_down": {
+            "key": 38
+        },
+        "menu_left": {
+            "key": 20
+        },
+        "menu_right": {
+            "key": 23
+        },
+        "menu_tab_next": {
+            "key": 24
+        },
+        "menu_tab_prev": {
+            "key": 36
+        },
+        "menu_zoom_in": {
+            "key": 22
+        },
+        "menu_zoom_out": {
+            "key": 45
+        },
+        "open_main_menu": {
+            "key": 102
+        },
+        "open_help": {
+            "key": 33
+        },
+        "move_forward": {
+            "key": 42
+        },
+        "move_back": {
+            "key": 38
+        },
+        "move_left": {
+            "key": 20
+        },
+        "move_right": {
+            "key": 23
+        },
+        "move_walk": {
+            "key": 100
+        },
+        "battle_next_target": {
+            "key": 123
+        },
+        "battle_prev_target": {
+            "key": 122
+        },
+        "battle_next_command": {
+            "key": 123
+        },
+        "battle_prev_command": {
+            "key": 122
+        },
+        "battle_next_target_command": {
+            "key": 22
+        },
+        "battle_prev_target_command": {
+            "key": 45
+        },
+        "sbreak_open": {
+            "key": 103
+        },
+        "sbreak_up": {
+            "key": 64
+        },
+        "sbreak_down": {
+            "key": 65
+        },
+        "sbreak_left": {
+            "key": 66
+        },
+        "sbreak_right": {
+            "key": 67
+        },
+        "enemy_info": {
+            "key": 39
+        },
+        "sub_info": {
+            "key": 26
+        },
+        "normal_attack": {
+            "key": 15
+        },
+        "guard": {
+            "key": 15
+        },
+        "escape": {
+            "key": 16
+        },
+        "arts_battle": {
+            "key": 37
+        },
+        "craft_battle": {
+            "key": 25
+        },
+        "item_battle": {
+            "key": 25
+        },
+        "overdrive_battle": {
+            "key": 41
+        },
+        "sub_command": {
+            "key": 24
+        },
+        "brave_attack_chase": {
+            "key": 66
+        },
+        "brave_attack_rush": {
+            "key": 65
+        },
+        "brave_attack_burst": {
+            "key": 64
+        },
+        "note_shortcut": {
+            "key": 24
+        },
+        "battle_note": {
+            "key": 65
+        },
+        "cook_note": {
+            "key": 66
+        },
+        "book_note": {
+            "key": 67
+        },
+        "main_note": {
+            "key": 64
+        },
+        "shop": {
+            "key": 25
+        },
+        "highspeed": {
+            "key": 98
+        },
+        "next_message": {
+            "key": 103
+        },
+        "auto_message": {
+            "key": 24
+        },
+        "hide_message": {
+            "key": 45
+        },
+        "event_skip": {
+            "key": 102
+        },
+        "menu_action1": {
+            "key": 25
+        },
+        "menu_action2": {
+            "key": 37
+        },
+        "menu_action3": {
+            "key": 107
+        },
+        "menu_action4": {
+            "key": 39
+        },
+        "open_contact_line": {
+            "key": 22
+        },
+        "menu_reset_view": {
+            "key": 17
+        }
+    }
+}
