@@ -24,7 +24,7 @@
         "ssr": 2,
         "anisotropic_filtering": 3,
         "anti_aliasing": 2,
-        "dof": 1
+        "dof": 0
     },
     "KeyConfig": {
         "Ver": 100,
