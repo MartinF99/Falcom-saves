@@ -15,10 +15,10 @@
     },
     "Graphics2": {
         "draw_distance": 2,
-        "lod_distance": 2,
+        "lod_distance": 3,
         "light_distance": 2,
         "rendering_scale": 5,
-        "shadow_map": 2,
+        "shadow_map": 3,
         "volumetric_light": 2,
         "ssao": 2,
         "ssr": 2,
@@ -83,10 +83,12 @@
             "key": 52
         },
         "decide": {
-            "key": 15
+            "key": 15,
+            "key_sub": 105
         },
         "cancel": {
-            "key": 16
+            "key": 16,
+            "key_sub": 102
         },
         "menu_up": {
             "key": 42
@@ -251,7 +253,7 @@
             "key": 39
         },
         "open_contact_line": {
-            "key": 22
+            "key": 41
         },
         "menu_reset_view": {
             "key": 17
