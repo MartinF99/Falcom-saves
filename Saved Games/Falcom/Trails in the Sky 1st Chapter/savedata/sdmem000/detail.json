@@ -1,14 +1,14 @@
 {
     "Time": {
-        "year": 2025,
-        "month": 10,
-        "day": 1,
-        "hour": 5,
-        "minute": 35,
-        "second": 47
+        "year": 2026,
+        "month": 7,
+        "day": 17,
+        "hour": 2,
+        "minute": 39,
+        "second": 58
     },
-    "title": "Trails in the Sky 1st Chapter",
-    "subtitle": "Systemdaten",
-    "detail": "Systemdaten für\nThe Legend of Heroes: Trails in the Sky 1st Chapter.\nUmfassen Optionseinstellungen und andere\ngespeicherte Informationen.",
+    "title": "空の軌跡the1st",
+    "subtitle": "システムデータ",
+    "detail": "英雄伝説 空の軌跡the1stのシステムデータです。\nオプション設定などが保存されています。",
     "user_param": 0
 }
