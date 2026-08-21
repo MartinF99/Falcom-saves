@@ -28,6 +28,13 @@ Clear Data and backup of current playthroughs of Games by Nihon Falcom
 |The legend of nayuta | no | no | no |
 |Tokyo Xanadu Ex+ | yes | yes | no  |
 |Zwei: The Arges Adventure | no | no | no |
+|Eiyuu densetsu V: Umi no Oriuta | y | n | n | 
+|Eiyuu densetsu IV: Akai Shizuku windows | n | n | n |
+|Eiyuu densetsu III: Shiroki Majo windows | n | n | n |
+|Trails In The Sky 1st chapter | y | y | n |
+|Trails In the Sky 2nd chapter | n |  n | n | 
+
+2nd remake is just demo
 
 ## Additional info
 
