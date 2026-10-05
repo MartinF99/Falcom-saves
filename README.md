@@ -5,37 +5,45 @@ Clear Data and backup of current playthroughs of Games by Nihon Falcom
 
 ## Games Saves included
 
-|Game  | Complete | DLC required | Clear save only      |
-|:--:  |   :---:  | :--: | :--: |
-|The Legend of Heroes III: Shiroki Majo | no | no | no |
-|The Legend of Heroes IV: Akai Shizuku  | no | no | no |
-|The Legend of Heroes V: Umi no oriuta  | no | no | no |
-|Trails In The Sky FC | yes| none | yes |
-|Trails In The Sky SC | yes | none | yes |
-|Trails From zero | yes | none | yes |
-|Trails To Azure | yes | none | no |
-|Trails Of Cold steel | yes | yes | yes |
-|Trails Of Cold Steel II | yes | yes | yes |
-|Trails Of Cold Steel III | yes | yes | yes |
-|Trails Of Cold Steel IV | yes | yes | no |
-|Trails Into Reverie | yes | yes | no |
-|Trails Through Daybreak | yes | yes | yes |
-|Trails Through Daybreak II | main story | yes | no |
-|Trails Beyond The Horizon | no | yes | no |
-|Ys VIII: Lacrimosa Of Dana | no | yes  | no |
-|Ys IX | no | no | no |
-|Ys X: Proud Nordics| no | yes | no |
-|The legend of nayuta | no | no | no |
-|Tokyo Xanadu Ex+ | yes | yes | no  |
-|Zwei: The Arges Adventure | no | no | no |
-|Eiyuu densetsu V: Umi no Oriuta | y | n | n | 
-|Eiyuu densetsu IV: Akai Shizuku windows | n | n | n |
-|Eiyuu densetsu III: Shiroki Majo windows | n | n | n |
-|Trails In The Sky 1st chapter | y | y | n |
-|Trails In the Sky 2nd chapter | n |  n | n | 
 
-2nd remake is just demo
+### Trails and Nayuta
+|Game                                     | Complete        | DLC required          | Clear save only
+|:--:                                     |  :--:           |  :--:                 | :--: 
+|Trails In The Sky FC                     | - [x]           | - [ ]                 | - [ ]
+|Trails In The Sky SC                     | - [x]           | - [ ]                 | - [ ]
+|Trails From zero                         | - [x]           | - [ ]                 | - [ ]
+|Trails To Azure                          | - [x]           | - [ ]                 | - [ ]
+|Trails Of Cold steel                     | - [x]           | - [x]                 | - [ ]
+|Trails Of Cold Steel II                  | - [x]           | - [x]                 | - [ ]
+|Trails Of Cold Steel III                 | - [x]           | - [x]                 | - [ ]
+|Trails Of Cold Steel IV                  | - [x]           | - [x]                 | - [ ]
+|Trails Into Reverie                      | - [x]           | - [x]                 | - [ ]
+|Trails Through Daybreak                  | - [x]           | - [x]                 | - [x]
+|Trails Through Daybreak II               | - [x]           | - [x]                 | - [x]
+|Trails Beyond The Horizon                | - [ ]           | - [x]                 | - [ ]
+|The legend of nayuta                     | - [ ]           | - [ ]                 | - [ ]
+|Trails In The Sky 1st chapter            | - [x]           | - [x]                 | - [ ]
+|Trails In the Sky 2nd chapter            | - [ ]           | - [x]                 | - [ ]
+### Ys
+|Ys I Chronicles+                         | - [x]           | - [ ]                 | - [ ]
+|Ys II Chronicles+                        | - [ ]           | - [ ]                 | - [ ]
+|Ys Origin                                | - [ ]           | - [ ]                 | - [ ]
+|Ys SEVEN                                 | - [ ]           | - [ ]                 | - [ ]
+|Ys Memories in Celceta                   | - [ ]           | - [ ]                 | - [ ]
+|Ys VIII: Lacrimosa Of Dana               | - [ ]           | - [x]                 | - [ ]
+|Ys IX                                    | - [ ]           | - [ ]                 | - [ ]
+|Ys X: Proud Nordics                      | - [ ]           | - [x]                 | - [ ]
+### Gagharv trilogy
 
+|The Legend of Heroes III: Shiroki Majo   | - [x]           | - [ ]                 | - [ ]
+|The Legend of Heroes IV: Akai Shizuku    | - [ ]           | - [ ]                 | - [ ]
+|The Legend of Heroes V: Umi no oriuta    | - [x]           | - [ ]                 | - [ ]
+
+### Xanadu series
+|Tokyo Xanadu Ex+                         | - [x]           | - [x]                 | - [ ]
+### Other
+|Zwei: The Arges Adventure                | - [ ]           | - [ ]                 | - [ ]
+|Zwei: The Ilvard Insurrection            | - [ ]           | - [ ]                 | - [ ]
 ## Additional info
 
 - Usage on windows: 
@@ -71,7 +79,7 @@ Clear Data and backup of current playthroughs of Games by Nihon Falcom
 ## Remarks
 
 For steam the <USERNAME> is always called steamuser 
-For Trails of Cold steel iv: includes a save file after beating the normal ending for an additional cutscene during the True ending route
+For Trails of Cold steel iv: includes a save file after beating the - [ ]rmal ending for an additional cutscene during the True ending route
 
 ## BONUS
 - Kitty talk for dummies, typed out from FC

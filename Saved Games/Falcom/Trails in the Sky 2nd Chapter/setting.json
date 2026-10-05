@@ -1,7 +1,8 @@
 {
     "Graphics": {
         "display_name": "\\\\.\\DISPLAY1",
-        "window_mode": 1,
+        "display_id": -1508376338,
+        "window_mode": 2,
         "resolution": {
             "width": 2560,
             "height": 1440
@@ -25,29 +26,29 @@
         "anisotropic_filtering": 3,
         "anti_aliasing": 3,
         "minimap_anti_aliasing": 1,
-        "upscaling": 2,
+        "upscaling": 0,
         "dof": 1,
         "vfx": 1,
         "rendering_scale_fsr": 2,
         "dlss_mode": 5
     },
     "GraphicsViewer": {
-        "draw_distance": 1,
-        "lod_distance": 1,
-        "light_distance": 1,
+        "draw_distance": 2,
+        "lod_distance": 3,
+        "light_distance": 2,
         "rendering_scale": 5,
-        "shadow_map": 1,
-        "volumetric_light": 1,
-        "ssao": 2,
-        "ssr": 2,
-        "anisotropic_filtering": 2,
-        "anti_aliasing": 2,
+        "shadow_map": 3,
+        "volumetric_light": 2,
+        "ssao": 3,
+        "ssr": 3,
+        "anisotropic_filtering": 3,
+        "anti_aliasing": 3,
         "minimap_anti_aliasing": 1,
-        "upscaling": 0,
+        "upscaling": 2,
         "dof": 1,
         "vfx": 1,
         "rendering_scale_fsr": 2,
-        "dlss_mode": 4
+        "dlss_mode": 5
     },
     "KeyConfig": {
         "Ver": 100,
