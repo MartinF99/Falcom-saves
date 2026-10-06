@@ -21,7 +21,7 @@ This section is ordered by series.
 |Trails Through Daybreak                  | [x]             | [x]                   | [x]
 |Trails Through Daybreak II               | [x]             | [x]                   | [x]
 |Trails Beyond The Horizon                | [ ]             | [x]                   | [ ]
-|The legend of nayuta                     | [ ]             | [-]                   | [ ]
+|The legend of nayuta                     | main story      | [-]                   | [ ]
 |Trails In The Sky 1st chapter            | [x]             | [x]                   | [ ]
 |Trails In the Sky 2nd chapter            | [ ]             | [x]                   | [ ]
 ### Ys
