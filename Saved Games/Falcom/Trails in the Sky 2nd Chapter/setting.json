@@ -11,8 +11,8 @@
         "frame_rate_limit": 60,
         "vsync": false,
         "hdr": false,
-        "hdr_peak_brightness": 500,
-        "hdr_ui_brightness": 0.75
+        "hdr_peak_brightness": 590,
+        "hdr_ui_brightness": 0.7
     },
     "Graphics2": {
         "draw_distance": 2,
