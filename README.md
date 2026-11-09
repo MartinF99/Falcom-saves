@@ -38,7 +38,7 @@ This section is ordered by series.
 ### Gagharv trilogy
 |Game                                     | Complete              | DLC required          | Clear save only
 |:--:                                     |  :--:                 |  :--:                 | :--: 
-|The Legend of Heroes III: Shiroki Majo   | :white_check_mark:    | :x:                   | :x:
+|The Legend of Heroes III: Shiroki Majo   | :white_large_square:   | :x:                   | :x:
 |The Legend of Heroes IV: Akai Shizuku    | :white_large_square:  | :x:                   | :x:
 |The Legend of Heroes V: Umi no oriuta    | :white_check_mark:    | :x:                   | :x:
                                                                   
