@@ -60,40 +60,48 @@ This section is ordered by series.
 
 ## Additional info
 
-- Usage on windows: 
-  * copy the wanted games save directory into Saved Games
-  * For Tokyo Xanadu put the Aksys Games folder into Documents/My Games
-  * Ys VIII: copy savedata into C:\PATH\TO\YS VIII\savedata
-  * Zwei: Arges Adventure: put the Zwei Folder into Appdata/local/
-  * For the old windows versions of TLOH 3-5: Copy the FALCOM folder into C:\user\USERNAME\AppData\Roaming\ (or where Application Data points to)
-- Usage on Linux/WINE: 
-      * on any proton version <USERNAME> should be steamuser 
-      * on steam the prefix can be found under 
-            
-            $HOME/.steam/steam/steamapps/compatdata/<APPID>/pfx
-  
-  
-    * put the Save Games into the 
-      
-          <WINEPREFIX>/drive_c/users/<USERNAME>/Saved Games/Falcom
+### windows: 
+* copy the Saved Games/Falcom directory into
 
-    * Or in the Folders necessary for Tokyo Xanadu
+          C:\user\<USERNAME>\Saved Games
 
-          <WINEPREFIX>/drive_c/users/<USERNAME>/Documents/My Games
-
-    * For Ys VIII place the savedata folder in the Ys VIII Game folder
-    
-    * For Zwei: The Arges Adventure put the Zwei folder into
+* For Tokyo Xanadu put the Aksys Games folder into 
           
-          <WINEPREFIX>/drive_c/users/<USERNAME>/AppData/Local/ 
-    * For the gagharv trilogy
+          Documents/My Games
+
+* Ys VIII: copy Ys VIII - Lacrimosa of Dana/savedata to 
+          
+          <Ys VIII Install Directory>\savedata
+
+* For the old windows versions of TLOH 3-5 and Zwei: Copy the Saved Games/Falcom folder into 
+
+          C:\user\USERNAME\AppData\Roaming\
+
+### Linux/WINE: 
+* on any proton version <USERNAME> should be steamuser 
+* on steam the prefix can be found under 
+            
+      $HOME/.steam/steam/steamapps/compatdata/<APPID>/pfx
+  
+  
+* put the Save Games into the 
+      
+      <WINEPREFIX>/drive_c/users/<USERNAME>/Saved Games/Falcom
+
+* Or in the Folders necessary for Tokyo Xanadu
+
+      <WINEPREFIX>/drive_c/users/<USERNAME>/Documents/My Games
+
+* For Ys VIII place the savedata folder in the Ys VIII Game folder
     
-          <WINEPREFIX>/drive_c/users/<USERNAME>/AppData/local/
+* Zwei and the gagharv trilogy expect their save folders to be in 
+            
+      <WINEPREFIX>/drive_c/users/<USERNAME>/AppData/Roaming
+
 
 ## Remarks
 
-For steam the <USERNAME> is always called steamuser 
 For Trails of Cold steel iv: includes a save file after beating the _rmal ending for an additional cutscene during the True ending route
 
-## BONUS
+## Bonus
 - Kitty talk for dummies, typed out from FC
